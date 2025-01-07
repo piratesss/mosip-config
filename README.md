@@ -4,7 +4,7 @@
 
 MOSIP uses Spring Cloud Config Server to read the properties files. So, to use the properties files in this repo, please update the IP addresses, keys and passwords and then point to this repo in spring cloud config in kernel module.
 
-## Config server 
+## Config server s
 
 Local Config Server Installation Guide
 
